@@ -18,7 +18,7 @@ Código base de la Modern UI/UX Brainwave Hecha en React.js, React Router Dom y 
 
 ## Enlace A La Aplicación
 
-- [Brainwave](https://ui-brainwave.netlify.app/)
+- [Brainwave](https://brainwave-modern-ui-ux.netlify.app/)
 
 ---
 
