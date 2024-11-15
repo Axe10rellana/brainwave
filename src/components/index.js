@@ -1,3 +1,4 @@
+//components
 export { default as Benefits } from "./Benefits";
 export { default as Button } from "./Button";
 export { default as Collaboration } from "./Collaboration";

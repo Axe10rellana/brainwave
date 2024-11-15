@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Código base de la Modern UI/UX Brainwave Hecha en React.js, React Router Dom y Tailwind CSS.
+Código base de la Interfaz Brainwave Hecha en React.js, React Router Dom y Tailwind CSS.
 
 ---
 
@@ -25,8 +25,9 @@ Código base de la Modern UI/UX Brainwave Hecha en React.js, React Router Dom y 
 ## Hecho con
 
 - [React](https://react.dev/) - JS library
-- [Tailwind CSS](https://tailwindcss.com/) - For Styles
 - [React Router Dom](https://reactrouter.com/en/main) - For Routes
+- [Scroll Lock](https://www.npmjs.com/package/scroll-lock) - For Disable Page Scrolling
+- [Tailwind CSS](https://tailwindcss.com/) - For Styles
 
 ---
 

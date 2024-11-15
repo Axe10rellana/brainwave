@@ -1,7 +1,7 @@
 //react-just-parallax
 import { ScrollParallax } from "react-just-parallax";
 
-//context hook
+//context
 import { useBrainwave } from "../context/BrainwaveContext";
 
 //constants
@@ -45,7 +45,7 @@ const Hero = () => {
             Unleash the power of AI within Brainwave. Upgrade your productivity
             with Brainwave, the open AI chat app.
           </p>
-          <Button href="/pricing" white>
+          <Button href="/#hero" white>
             Get started
           </Button>
         </div>

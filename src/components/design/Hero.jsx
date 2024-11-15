@@ -1,7 +1,7 @@
 //react-just-parallax
 import { MouseParallax } from "react-just-parallax";
 
-//context hook
+//context
 import { useBrainwave } from "../../context/BrainwaveContext";
 
 //assets

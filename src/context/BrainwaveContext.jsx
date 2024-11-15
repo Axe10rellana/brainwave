@@ -20,7 +20,7 @@ export const BrainwaveProvider = ({ children }) => {
   //refs
   const parallaxRef = useRef(null);
 
-  //react router variables
+  //react-router variables
   const pathname = useLocation();
 
   //state variables

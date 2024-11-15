@@ -1,9 +1,10 @@
 {
   "name": "brainwave",
-  "description": "Código base de la Modern UI/UX Brainwave Hecha en React.js, React Router Dom y Tailwind CSS.",
+  "description": "Código base de la Interfaz Brainwave Hecha en React.js, React Router Dom y Tailwind CSS.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "./",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -1,4 +1,4 @@
-//context hook
+//context
 import { useBrainwave } from "../context/BrainwaveContext";
 
 //constants
